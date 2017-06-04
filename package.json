@@ -1,0 +1,15 @@
+{
+  "name": "xiaotest",
+  "version": "0.0.1",
+  "description": "git node test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "git",
+    "node"
+  ],
+  "author": "chengxiaobei",
+  "license": "ISC"
+}
